@@ -1,0 +1,13 @@
+{
+  "name": "yuehu-valid-email",
+  "description": "Valid an Email.",
+  "version": "0.0.1",
+  "keywords": [
+    "form",
+    "email",
+    "validator"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
